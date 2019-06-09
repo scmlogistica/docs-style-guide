@@ -14,4 +14,4 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
 * [VisualStudio Project Style Guide](vsproj-style-guide.md)
 * [T-SQL Style Guide](tslq-style-guide.md)
 * [C# Style Guide](cs-style-guide.md)
-* [Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
+* [Vue.js Style Guide](https://github.com/vuejs/vuejs.org/blob/master/src/v2/style-guide/index.md)
